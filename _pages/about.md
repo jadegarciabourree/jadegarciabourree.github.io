@@ -10,7 +10,7 @@ Since october 2022, I am a PhD Student in computer science at [Inria Rennes](htt
 
 I am interested in developing reliable mechanisms for auditing machine learning models, especially in adversarial or uncertain settings. My research prioritizes techniques that operate with limited access to internal mechanisms, allowing for external verification. I explore both theoretical and applied approaches to achieve meaningful audit outcomes with minimal system interference.
 
-My research also addresses the protection of graph-structured data, which plays a central role in many real-world applications. I focus on designing techniques for embedding traceable information within graphs, allowing for the identification of unauthorized data sharing or manipulation. These methods seek to balance traceability with the preservation of essential graph properties.
+My research also addresses the protection of graphs, which plays a central role in many real-world applications. I focus on designing techniques for embedding traceable information within graphs, allowing for the identification of unauthorized data sharing or manipulation. These methods seek to balance traceability with the preservation of essential graph properties.
 
 # Publications
 - **P2NIA: Privacy-Preserving Non-Iterative Auditing**, *Jade Garcia Bourrée, Hadrien Lautraite, Sébastien Gambs, Gilles Tredan, Erwan Le Merrer, Benoît Rottembourg*. In ECML'25.
