@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Since october 2022, I am a PhD Student in computer science at [Inria Rennes](https://www.inria.fr/fr/centre-inria-universite-rennes)  in the [ARTISHAU](https://team.inria.fr/artishau/) team. I am supervised by [Erwan Le Merrer](https://erwanlemerrer.github.io/), [Gilles Tredan](https://homepages.laas.fr/gtredan/), and [Benoît Rottembourg](https://www.linkedin.com/in/rottembourg/).
+Since october 2022, I am a PhD Student in computer science at [Inria Rennes](https://www.inria.fr/fr/centre-inria-universite-rennes)  in the [ARTISHAU](https://team.inria.fr/artishau/) team. I am supervised by [Erwan Le Merrer](https://erwanlemerrer.github.io/), [Gilles Tredan](https://homepages.laas.fr/gtredan/), and [Benoît Rottembourg](https://www.linkedin.com/in/rottembourg/). I am looking for Post-Doc opportunities, starting Spring 2026.
 
 I am interested in developing reliable mechanisms for auditing machine learning models, especially in adversarial or uncertain settings. My research prioritizes techniques that operate with limited access to internal mechanisms, allowing for external verification. I explore both theoretical and applied approaches to achieve meaningful audit outcomes with minimal system interference.
 
